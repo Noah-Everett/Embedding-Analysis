@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "embeddings/grid:00000"
+  metadata_path: "00000/embeddings%2fgrid/metadata.tsv"
+  tensor_path: "00000/embeddings%2fgrid/tensors.tsv"
+}
